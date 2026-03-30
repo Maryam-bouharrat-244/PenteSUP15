@@ -18,4 +18,4 @@ pip install rasterio numpy
 ```
 
 ## Auteur
-Votre nom
+Mary
